@@ -1,0 +1,15 @@
+{
+  "name": "handlebars-v2.0.0",
+  "_cacheHeaders": {
+    "ETag": "\"664baaa4ba109141918aec5e7faa08a0\"",
+    "Last-Modified": "Tue, 02 Sep 2014 02:39:48 GMT",
+    "Content-Length": "100900",
+    "Content-Type": "binary/octet-stream"
+  },
+  "_release": "e-tag:664baaa4b",
+  "main": "index.js",
+  "_source": "http://builds.handlebarsjs.com.s3.amazonaws.com/handlebars-v2.0.0.js",
+  "_target": "*",
+  "_originalSource": "http://builds.handlebarsjs.com.s3.amazonaws.com/handlebars-v2.0.0.js",
+  "_direct": true
+}

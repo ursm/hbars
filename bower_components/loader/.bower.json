@@ -1,0 +1,29 @@
+{
+  "name": "loader.js",
+  "main": "loader.js",
+  "version": "2.1.1",
+  "homepage": "https://github.com/stefanpenner/loader.js",
+  "authors": [
+    "Stefan Penner <stefan.penner@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "qunit": "~1.14.0"
+  },
+  "_release": "2.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.1.1",
+    "commit": "1c5bc899c81d0ca9e449fbc095fd57d4dc2ac1e4"
+  },
+  "_source": "git://github.com/stefanpenner/loader.js.git",
+  "_target": "2.1.1",
+  "_originalSource": "stefanpenner/loader.js"
+}

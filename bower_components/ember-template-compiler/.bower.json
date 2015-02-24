@@ -1,0 +1,15 @@
+{
+  "name": "ember-template-compiler",
+  "_cacheHeaders": {
+    "ETag": "\"2dc9bd727a54444a57d95be4c5b01793\"",
+    "Last-Modified": "Sun, 08 Feb 2015 01:43:38 GMT",
+    "Content-Length": "217911",
+    "Content-Type": "text/javascript"
+  },
+  "_release": "e-tag:2dc9bd727",
+  "main": "index.js",
+  "_source": "http://builds.emberjs.com/tags/v1.10.0/ember-template-compiler.js",
+  "_target": "*",
+  "_originalSource": "http://builds.emberjs.com/tags/v1.10.0/ember-template-compiler.js",
+  "_direct": true
+}
