@@ -319,6 +319,29 @@ describe('parser', function () {
     ]);
   });
 
+  it('contextual components', function () {
+    var ast = parse('- x-foo as |f|\n  - f.bar\n    %div');
+    expect(ast).to.deep.equal([
+      {
+        type: "block_expression",
+        name: "x-foo",
+        content: "as |f|",
+        nodes: [
+          {
+            type: "block_expression",
+            name: "f.bar",
+            nodes: [
+              {
+                type: "element",
+                tag: "div"
+              }
+            ]
+          }
+        ]
+      }
+    ]);
+  });
+
   describe('attributes', function() {
 
     it('static', function () {
